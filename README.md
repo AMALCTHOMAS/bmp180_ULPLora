@@ -13,8 +13,7 @@ This repository contains code libraries and documentation for integrating the UL
 
 - **/libraries:** Contains code libraries for the ULPLoRa board and BMP180 sensor.
 - **/documentation:** Includes detailed documentation on hardware setup, software configuration, and integration with ChirpStack, InfluxDB, and Grafana.
-- **/examples:** Provides sample code examples demonstrating usage of the ULPLoRa board and BMP180 sensor.
-- **/extras:** Supplementary materials such as schematics, pinout diagrams, and datasheets.
+- **/code:** Provides sample code examples demonstrating usage of the ULPLoRa board and BMP180 sensor.
 
 ## Getting Started
 
